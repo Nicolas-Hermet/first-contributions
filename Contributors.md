@@ -1204,6 +1204,7 @@ Timothy-Brian Gosalvez
 - [Bryan Endres](https://github.com/bendres97)
 - [QrBe](https://github.com/QrBe)
 - [Nicolas Mesa](https://github.com/nicolasmesa)
+- [Nicolas Hermet](https://github.com/Nicolas-Hermet)
 - [mrjomp](https://github.com/mrjomp)
 - [Mike Allen](https://github.com/mallenjr)
 - [Stan Smoczyk](https://github.com/stansmoczyk)
